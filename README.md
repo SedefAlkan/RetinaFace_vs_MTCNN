@@ -33,5 +33,7 @@ Bu proje, iki popüler yüz tespiti modelini — **MTCNN** ve **RetinaFace** —
 ## SONUÇLAR
 
 **Doğruluk:** RetinaFace, MTCNN'ye kıyasla daha yüksek doğruluk oranları sergilemiştir.
+
 **Hız:** MTCNN, RetinaFace'e göre daha hızlı çalışmaktadır.
+
 **Esneklik:** RetinaFace, zorlu koşullarda daha başarılı sonuçlar elde etmiştir.
